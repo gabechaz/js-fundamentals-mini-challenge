@@ -1,3 +1,6 @@
+
+// So I definitely need to work on some concepts. Tomorrow's challenge will be better I swear!
+
 // ***** Question 1 *****
 // *** Uncomment the lines below to test
 let counter = 1;
